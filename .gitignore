@@ -1,0 +1,16 @@
+# C build artifacts
+*.o
+*.out
+*.exe
+
+# Compiled binaries
+project/result_portal
+project/gui_portal
+
+# Logs and temp files
+project/operations.log
+*.tmp
+project/temp.txt
+project/temp_pw.txt
+project/results.tmp
+project/passwords.tmp
